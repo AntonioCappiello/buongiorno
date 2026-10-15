@@ -158,8 +158,8 @@ see what changed and undo it.
 **Can I share my newsletter's prompt?** Better not, because it contains personal details.
 Share this skill and let others build their own.
 
-**Why "Buongiorno"?** It started as one Italian developer's own morning email. The skill is
-what it became once it worked well enough to share.
+**Why "Buongiorno"?** It started as [one Italian developer's](https://antoniocappiello.com/)
+own morning email. The skill is what it became once it worked well enough to share.
 
 ## Contributing
 
@@ -168,4 +168,4 @@ country are very welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-[MIT](LICENSE) © 2026 Antonio Cappiello
+[MIT](LICENSE) © 2026 [Antonio Cappiello](https://antoniocappiello.com/)
