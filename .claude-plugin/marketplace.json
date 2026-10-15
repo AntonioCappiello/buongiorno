@@ -1,0 +1,23 @@
+{
+  "name": "buongiorno",
+  "owner": {
+    "name": "Antonio Cappiello"
+  },
+  "metadata": {
+    "description": "Buongiorno: a skill that builds a personal daily newsletter for one reader.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "buongiorno",
+      "description": "Builds a personal morning newsletter about your own places, work and hobbies, and schedules it as a Claude cloud routine.",
+      "version": "1.0.0",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/buongiorno"],
+      "license": "MIT",
+      "keywords": ["newsletter", "news", "daily-brief", "routine", "rss"],
+      "category": "productivity"
+    }
+  ]
+}
